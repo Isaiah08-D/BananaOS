@@ -137,7 +137,7 @@ class Main(Frame):
         current_app = None
 
     def about(self):
-        messagebox.showinfo("About", "Created in 2020 by Isaiah Day.\nGithub: Isaiah08-D")
+        messagebox.showinfo("About", "Created in 2020 by Isaiah Day, Isaiah Firestone and Mila Day.")
 
     def help(self):
         messagebox.showinfo("Help",
