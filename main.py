@@ -8,6 +8,7 @@ import requests
 from apps import BananaText, SudokuGrid, Shell, Games, Shotput
 
 
+
 class Main(Frame):
     def __init__(self, root, height, width, bg):
         Frame.__init__(self, root, height=height, width=width, bg=bg)
